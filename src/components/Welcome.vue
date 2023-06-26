@@ -59,14 +59,6 @@ html, body {
   margin: 0;
   padding: 0;
 }
-
-.container {
-  height: 100%;
-  background-image: url('@/assets/img/SG.png');
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
 .sombra {
   box-shadow: rgba(204, 0, 255, 0.2) 0px 7px 29px 0px;
 }

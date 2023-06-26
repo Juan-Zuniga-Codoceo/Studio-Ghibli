@@ -16,6 +16,9 @@ export default {
 </script>
 
 <style>
+body{
+  background-image: url('@/assets/img/SG.png');
+}
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
